@@ -1,7 +1,7 @@
-<h1 align="center">An advanced <a href="https://anometrica.com">AI Intrusion & Anomaly Detection System</a></h1><br>
+<h1 align="center">Anometrica: The AI-powered IDS</h1>
 
 <p align="center">
   <a href="https://anometrica.com">
-    Coming soon...
+    <img src="https://github.com/anometrica/platform/blob/main/anometrica-banner.png?raw=true" loading="eager" decoding="async">
   </a>
 </p>
