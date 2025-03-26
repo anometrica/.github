@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://anometrica.com">
-    <img src="https://github.com/anometrica/platform/blob/main/anometrica-banner.png?raw=true" loading="eager" decoding="async">
+    <img src="https://github.com/anometrica/.github/blob/main/profile/anometrica-banner.png?raw=true" loading="eager" decoding="async">
   </a>
 </p>
